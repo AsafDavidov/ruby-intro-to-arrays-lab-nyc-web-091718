@@ -6,6 +6,8 @@ def array_with_two_elements
   two_array = ["first","second"]
 end
 def first_element(array)
-  aray[0]
+  array[0]
 end
-def
+def third_element(array)
+  array[2]
+end
